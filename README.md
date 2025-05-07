@@ -16,7 +16,7 @@ Saya sedang belajar dan memperdalam pemrograman, terutama di beberapa bahasa ber
 - Java  
 - Python  
 - C++  
-- HTML, CSS, dan JavaScript (masih dasar)
+- HTML, CSS, dan JavaScript
 
 Saya menggunakan GitHub untuk menyimpan hasil belajar, eksperimen kecil, dan catatan pribadi seputar kode.
 
